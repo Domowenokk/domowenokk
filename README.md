@@ -1,4 +1,4 @@
-### Hi there 👋
+### Frontend developer.Layout designer.UI/UX Designer 👋
 
 <!--
 **Domowenokk/domowenokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
